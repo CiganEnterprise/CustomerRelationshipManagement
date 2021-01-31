@@ -69,3 +69,12 @@ platform administrator.
  topics such as project references, workflow references or others.
  
 ![Website MainView](CRM_documentation/picture_7.png)
+
+All the mails who are sent to the user are just crud operations in the UI with specific 
+filters.
+
+![Website MainView](CRM_documentation/picture_8.png)
+
+As it can been seen there are 5 different filters and those are all messages, last messages,
+messages, about projects, messages about workflow and other messages. The user (client) can go to any 
+of those elements from the submenu to get quicker to the messages he wants to read or check.
