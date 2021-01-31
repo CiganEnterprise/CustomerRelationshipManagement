@@ -61,3 +61,11 @@ directly in the database where it can be read by the business owner or
 platform administrator.
 
 ![Website MainView](CRM_documentation/picture_6.png)
+
+##### Messages to clients
+
+ This table represents the big part of the mailing system from the platform.
+ Here, the business owner is able to write any mails to any client about specific
+ topics such as project references, workflow references or others.
+ 
+![Website MainView](CRM_documentation/picture_7.png)
