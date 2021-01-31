@@ -34,3 +34,8 @@ email, phone number, social media presence and personal website. The structure c
 below.
 
 ![Website MainView](CRM_documentation/picture_3.png)
+
+This information is used not only for the business but also to create 
+a profile of the client in the UI through CRUD operations.
+
+![Website MainView](CRM_documentation/picture_4.png)
