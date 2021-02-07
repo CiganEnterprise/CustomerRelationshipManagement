@@ -118,6 +118,8 @@ the attribute "On Queue" are the ones that the business did not started to work 
 
 ![Website MainView](CRM_documentation/picture_12.png)
 
+##### Currently working at
+
 In the moment the status is changed to currently working at, the project 
 information is moved to a table called active working projects. Here new fields are added such as
 Percent done, or ready for delivery. Again, the business owner is able to feed the client with
@@ -131,3 +133,19 @@ What the business owner will see
 What the client will see
 
 ![Website MainView](CRM_documentation/picture_14.png)
+
+##### Finished projects
+
+After the ready to delivery button is checked, the system will transfer all the required information
+in a table called finished projects. Also all the data which identifies with this project will be deleted
+from the previous three tables, Planned projects, Currently working at projects and requested projects.
+The only information about the project will be stored here, so as any other project which was finished
+by the business. 
+
+What the business owner will see
+
+![Website MainView](CRM_documentation/picture_15.png)
+
+What the client will see
+
+![Website MainView](CRM_documentation/picture_16.png)
