@@ -78,3 +78,9 @@ filters.
 As it can been seen there are 5 different filters and those are all messages, last messages,
 messages, about projects, messages about workflow and other messages. The user (client) can go to any 
 of those elements from the submenu to get quicker to the messages he wants to read or check.
+
+As a client you also have the possibility to request a project to the business or to the freelancer
+who is owning the platform. You can do that very simple just by filling all required fields from this 
+form.
+
+![Website MainView](CRM_documentation/picture_9.png)  
