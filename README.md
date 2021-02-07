@@ -97,3 +97,19 @@ What the business owner will see
 What the client will see
 
 ![Website MainView](CRM_documentation/picture_11.png)
+
+Also the infos about the user will adapt so it can be seen there is one proposed project. In the moment
+the business owner accepts the project, a copy of all the infos will be created in a table called planned
+projects from  PROJECTSMANAGEMENT database. Here is where the management of the projects will take place.
+
+##### PROJECTSMANAGEMENT
+
+##### Planned projects
+
+Here is the first place where the information about the accepted project will be moved. This table will
+also include additional information like the price asked, working status and deadline. Again, all this
+information will be actualised to the client as well so that he will be into a continuous 
+touch with the business owner without losing time with phone calls, questions about the project status
+or how things are going.
+
+![Website MainView](CRM_documentation/picture_12.png)
