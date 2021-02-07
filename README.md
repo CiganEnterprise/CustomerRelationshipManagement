@@ -112,4 +112,22 @@ information will be actualised to the client as well so that he will be into a c
 touch with the business owner without losing time with phone calls, questions about the project status
 or how things are going.
 
+Here is the place where are all the planned projects the business has, including the ones who are currently
+in the development process. They can be filtered very easy by the working status field, the ones who have
+the attribute "On Queue" are the ones that the business did not started to work at yet.
+
 ![Website MainView](CRM_documentation/picture_12.png)
+
+In the moment the status is changed to currently working at, the project 
+information is moved to a table called active working projects. Here new fields are added such as
+Percent done, or ready for delivery. Again, the business owner is able to feed the client with
+continuous data about how the project work is going, telling him exactly how much of the project still
+needs to be done.
+
+What the business owner will see
+
+![Website MainView](CRM_documentation/picture_13.png)
+
+What the client will see
+
+![Website MainView](CRM_documentation/picture_14.png)
