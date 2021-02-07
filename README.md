@@ -149,3 +149,14 @@ What the business owner will see
 What the client will see
 
 ![Website MainView](CRM_documentation/picture_16.png)
+
+The need of doing this was keeping the working tables as simple as possible, I wanted the system
+to be easy to work with and keeping old data in those tables would be just a waste. Moving them 
+in a new table which includes all the finished projects seemed to me the best choice at least for now.
+
+The system has it's pro and cons but as a general view and at least for now it seems to work very well
+without problems being created on a solid platform.
+
+As it can be see below, the data from other tables was deleted but it's present in the finished table.
+
+![Website MainView](CRM_documentation/picture_17.png)
