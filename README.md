@@ -84,3 +84,16 @@ who is owning the platform. You can do that very simple just by filling all requ
 form.
 
 ![Website MainView](CRM_documentation/picture_9.png)  
+
+After sending the request, the business or the freelancer is able to analyse it directly from the
+database. After doing so they have the possibility to either accept, refuse, or let the user
+wait for a response. The moment when the owners change the project status, it will be automatically 
+visible to the client as well so that he will know the state of the requested project.
+
+What the business owner will see
+
+![Website MainView](CRM_documentation/picture_10.png)  
+
+What the client will see
+
+![Website MainView](CRM_documentation/picture_11.png)
