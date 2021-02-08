@@ -157,6 +157,18 @@ in a new table which includes all the finished projects seemed to me the best ch
 The system has it's pro and cons but as a general view and at least for now it seems to work very well
 without problems being created on a solid platform.
 
-As it can be see below, the data from other tables was deleted but it's present in the finished table.
+As it can be seen below, the data from other tables was deleted but it's present in the finished table.
 
 ![Website MainView](CRM_documentation/picture_17.png)
+
+The products section represents the products where the company is working so that the client would
+know where the business is going with the ideologies as a brand. That section only contains a list 
+of the products who are planned by the business, the products where the business is working and the 
+products who are finished and are free to purchase. It represents just some queries from the database
+using the django ORM.
+
+This repo contains the project as an independent webapp but this project is also able to be integrated 
+in any python django app with a huge ease. The configuration of the app is the only thing that is 
+changing, including the URLS, extraction of settings and others. 
+
+The plugin can be found here -> ..... 
