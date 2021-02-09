@@ -172,3 +172,8 @@ in any python django app with a huge ease. The configuration of the app is the o
 changing, including the URLS, extraction of settings and others. 
 
 The plugin can be found here -> ..... 
+
+## Technologies
+
+The technologies I've used here are HTML5, CSS3, Javascript, Jquery, Bootstrap, FontAwesome,
+Python Django, SQL Based Database.
