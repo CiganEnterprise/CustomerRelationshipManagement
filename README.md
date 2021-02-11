@@ -190,7 +190,7 @@ Python Django, SQL Based Database.
 * After downloading this repo you have to get a SECRET_KEY from here -> https://djecrety.ir/ and paste
 it in the settings.py file from PersonalWebApp folder. (CustomerRelationshipManagement/CustomerRelationshipManagement/settings.py)
  
-![Website main page responsive](ciganoliviudavid_documentation/picture_18.png)
+![Website main page responsive](CRM_documentation/picture_18.png)
 
 * Open cmd or terminal in CustomerRelationshipManagement folder and type 
 ```
