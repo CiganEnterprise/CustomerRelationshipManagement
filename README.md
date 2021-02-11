@@ -179,6 +179,12 @@ The technologies I've used here are HTML5, CSS3, Javascript, Jquery, Bootstrap, 
 Python Django, SQL Based Database.
 
 ## Future Development
+A list with possible and super helpful updates that the system may need:
+
+* It may be nice to have the possibility to buy products directly from this CRM as long as I can see
+them or at least send a request for getting a product. A special request line which asks about buying 
+a product even tough is not finished if the ask for it is bigger than the offer. This subsystem should be
+also administrated from the control panel. 
 
 ## Requirements
 
