@@ -177,3 +177,41 @@ The plugin can be found here -> .....
 
 The technologies I've used here are HTML5, CSS3, Javascript, Jquery, Bootstrap, FontAwesome,
 Python Django, SQL Based Database.
+
+## Future Development
+
+## Requirements
+
+* You should have python3 and django version (3.0.8) installed.
+
+## Setup
+
+* Download this repo
+* After downloading this repo you have to get a SECRET_KEY from here -> https://djecrety.ir/ and paste
+it in the settings.py file from PersonalWebApp folder. (CustomerRelationshipManagement/CustomerRelationshipManagement/settings.py)
+ 
+![Website main page responsive](ciganoliviudavid_documentation/picture_18.png)
+
+* Open cmd or terminal in CustomerRelationshipManagement folder and type 
+```
+    python3 manage.py makemigrations
+```
+
+then 
+
+```
+    python3 manage.py migrate
+```
+
+after that create an admin
+
+```
+    python3 manage.py createsuperuser
+```
+
+run the app
+
+```
+    python3 manage.py runserver
+```
+* Enjoy
