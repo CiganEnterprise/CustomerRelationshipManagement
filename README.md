@@ -175,8 +175,8 @@ The plugin can be found here -> .....
 
 ## Technologies
 
-The technologies I've used here are HTML5, CSS3, Javascript, Jquery, Bootstrap, FontAwesome,
-Python Django, SQL Based Database.
+The technologies I've used here are HTML5, CSS3, Javascript, Jquery, Bootstrap,
+Python Django, SQL Based Database (sqlite3).
 
 ## Future Development
 
